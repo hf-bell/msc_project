@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+pyquaternion
+matplotlib
+tensorflow-gpu
+tensorflow
+keras
+scikit-image
+quaternion

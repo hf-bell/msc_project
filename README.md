@@ -4,8 +4,8 @@ This repository holds the code implementing an uncertainty aware deep head motio
 
 References 
 
-[1] - Miguel Fabian Romero Rondon, Lucile Sassatelli, Ram ´ on Aparicio-Pardo, and ´
-Fred´ eric Precioso. A unified evaluation framework for head motion prediction ´
+[1] - Miguel Fabian Romero Rondon, Lucile Sassatelli, Ramon Aparicio-Pardo, and ´
+Frederic Precioso. A unified evaluation framework for head motion prediction ´
 methods in 360° videos. In Proceedings of the 11th ACM Multimedia Systems
 Conference, MMSys ’20, page 279–284, New York, NY, USA, 2020. Association
 for Computing Machinery.
